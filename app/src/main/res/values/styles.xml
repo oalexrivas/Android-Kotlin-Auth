@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GoogleButton">
+        <item name="icon">@drawable/fui_ic_google_color_24dp</item>
+        <item name="backgroundTint">@color/fui_bgGoogle</item>
+        <item name="android:textColor">#757575</item>
+    </style>
+</resources>

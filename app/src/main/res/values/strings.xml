@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-Kotlin-Auth</string>
+    <string name="fui_sign_in_with_google">Acceder con Google</string>
+    <string name="default_web_client_id">588630799117-7am4pg5h6v6tlbkndnlj4d0g42d23ul0.apps.googleusercontent.com</string>
+</resources>
