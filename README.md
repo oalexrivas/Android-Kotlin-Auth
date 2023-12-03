@@ -14,4 +14,4 @@ Este repositorio está licenciado bajo Creative Commons Attribution (CC BY), lo 
 
 #### Links:
 * [Foro 2](/Foro2%20-%20DSM.pdf)
-* [Video Explicativo]()
+* [Video Explicativo](https://youtu.be/UQuC07yUzmQ)
